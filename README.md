@@ -8,7 +8,7 @@
 
 ## 🚧 I'm currently working on:
 - 🤖 A fully offline personal AI assistant app using Java and Android(via AIDE)
-- 📦 A startup idea involving reusable packaging with scannable tracking systems.
+- 📦 A startup idea involving reusable packaging with scannable tracking systems
 
 ## 📘 I'm currently learning
 - DSA ( Data Structures & Algorithms ) in Java
