@@ -35,7 +35,7 @@
 - He/Him
 
 ## 🎉 Fun fact:
-- I study 10+ hours a day, but still find time to build personal tools to make my life easier-and yours too.
+- I study 9+ hours a day, but still find time to build personal tools to make my life easier-and yours too.
 
 ---
 > *"Build consistently. Learn ruthlessly. Improve endlessly."*
