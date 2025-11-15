@@ -1,5 +1,4 @@
 ## Hi there 👋
-![IMG_20250623_175626](https://github.com/user-attachments/assets/21c8eab4-c3bb-4fed-ad9f-fc949c8b6175)
 
 🎓 A Computer Science student with a deep interest in AI, cybersecurity, and building practical tools from scratch.
 📚 Currently focused on mastering core subjects - while exploring side projects in mobile development and automation.
